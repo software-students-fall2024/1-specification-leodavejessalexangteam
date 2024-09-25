@@ -68,3 +68,6 @@ Rehome
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
+[Wireframes](https://www.figma.com/design/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=208-403&t=swQwLOuO7vak5oEq-1)
+[Prototype](https://www.figma.com/design/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=0-1&t=Sli5v7QUhfzOLvus-1)
