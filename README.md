@@ -66,8 +66,5 @@ Rehome
 <img title="uml2" alt="uml 2" src="/imgs/UML 2.png">
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
 [Wireframes](https://www.figma.com/design/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=208-403&t=swQwLOuO7vak5oEq-1)
-[Prototype](https://www.figma.com/design/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=0-1&t=Sli5v7QUhfzOLvus-1)
+[Prototype](https://www.figma.com/proto/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=129-309&node-type=canvas&t=6cl8n5HmEGJf4oXj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=129%3A309&show-proto-sidebar=1)
