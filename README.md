@@ -59,8 +59,6 @@ Rehome
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
 ## Clickable Prototype
 
-[Prototype] (https://www.figma.com/design/X8x3Vdfza6610hAcy46fCp/SniffSpot?node-id=0-1&t=goaq1FCEe2fOCL9c-1)
+See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
