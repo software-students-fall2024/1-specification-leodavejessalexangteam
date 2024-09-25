@@ -59,6 +59,12 @@ Rehome
 
 ## Activity Diagrams
 
+**UML Diagram 1**: As an animal lover who wants to adopt, I want a platform that will help me find pets looking for new homes so that I can provide a sanctuary for the pet.
+<img title="uml1" alt="uml 1" src="/imgs/UML 1.png">
+
+**UML Diagram 2**: As a single pet owner who wants to date, I want to go on dog dates with my match so that we can bond and see we are a good fit.
+<img title="uml2" alt="uml 2" src="/imgs/UML 2.png">
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
